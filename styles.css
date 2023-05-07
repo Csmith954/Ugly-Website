@@ -1,0 +1,42 @@
+* {
+font-family: 'Press Start 2P', cursive;
+background-color: yellow;
+}
+
+nav {
+    background-color: brown;
+    position: fixed;
+}
+
+nav ul {
+    background-color: brown;
+}
+li {
+    background-color: brown;
+}
+a {
+    background-color: brown;
+    color: orange;
+}
+
+.container-main {
+    display: flex;
+    flex-direction: column;
+    background-color: yellow;
+    color: green;
+}
+
+.container-main img {
+    width: 100%;
+}
+
+a:hover{
+    color: green;
+    cursor: pointer;
+    letter-spacing: 10rem;
+
+}
+
+h3, p {
+    color: green;
+}
